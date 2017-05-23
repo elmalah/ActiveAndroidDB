@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\elmalah\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="C:\ElmalahPC\Data\Projects\Other_Projects\ElmalahSampleDemo\ActiveAndroidDB\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT_5064135d1c9420a3fb46336c4be946eb199a09c7.jar" />
+    </item>
+
+</items>
